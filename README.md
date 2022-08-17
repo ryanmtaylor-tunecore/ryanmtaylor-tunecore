@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 My personal github is @ryanmtaylor
+
 My work email is [ryan.taylor@tunecore.com](mailto:ryan.taylor@tunecore.com)
 
 <!---
