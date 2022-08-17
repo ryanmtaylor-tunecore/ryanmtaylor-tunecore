@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-My personal github is @ryanmtaylor
+My personal github is [@ryanmtaylor](github.com/ryanmtaylor)
 
 My work email is [ryan.taylor@tunecore.com](mailto:ryan.taylor@tunecore.com)
 
